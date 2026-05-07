@@ -25,6 +25,11 @@ Este repositorio contiene el desarrollo de los laboratorios de la materia **Elec
 
 ┃ ┣  Lab_3.pdf
 
+### ┣  Laboratorio 4 
+┃ ┣  juego.py
+
+┃ ┣  Seguimiento_IV.pdf
+
 Más detalles del procedimiento en la [Wiki](../../wiki/)
 
 ## Tecnologías utilizadas
