@@ -20,7 +20,10 @@ Este repositorio contiene el desarrollo de los laboratorios de la materia **Elec
 
 ┃ ┣  seguimiento_2.pdf
 
-### ┣  Laboratorio 3 (próximamente)
+### ┣  Laboratorio 3 
+┃ ┣  lab3.py
+
+┃ ┣  Lab_3.pdf
 
 Más detalles del procedimiento en la [Wiki](../../wiki/)
 
